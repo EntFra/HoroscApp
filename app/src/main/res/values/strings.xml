@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HoroscApp</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- BottomBar-->
+    <string name="horoscopo">Horoscope</string>
+    <string name="palmistry">Palmistry</string>
+    <string name="luck">Luck</string>
+</resources>
