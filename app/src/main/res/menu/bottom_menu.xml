@@ -6,7 +6,7 @@
         android:icon="@drawable/ic_horoscope"/>
 
     <item
-        android:id="@+id/luckfragment"
+        android:id="@+id/luckFragment"
         android:title="@string/luck"
         android:icon="@drawable/ic_cards"/>
 
